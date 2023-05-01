@@ -58,3 +58,6 @@ Já na página "Dicas de Reciclagem", os usuários encontram informações útei
 
 <img width="200" src="https://user-images.githubusercontent.com/49684358/235472267-cb390221-64ee-4574-8b5f-1974c856b57e.png"/> <img width="200" src="https://user-images.githubusercontent.com/49684358/235472308-0935373b-a681-4ef0-bec4-84b9212a3b06.png"/>
 
+________________________________________
+#### Em caso de dúvidas entrar em contato: gelsonschikorski1998@gmail.com
+#### Bugs ou sugestões: 
