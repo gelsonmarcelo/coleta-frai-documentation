@@ -58,6 +58,13 @@ Já na página "Dicas de Reciclagem", os usuários encontram informações útei
 
 <img width="200" src="https://user-images.githubusercontent.com/49684358/235472267-cb390221-64ee-4574-8b5f-1974c856b57e.png"/> <img width="200" src="https://user-images.githubusercontent.com/49684358/235472308-0935373b-a681-4ef0-bec4-84b9212a3b06.png"/>
 
+#### Dark Theme
+
+Você poderá escolher entre os temas claro e escuro no app!
+
+<img width="200" src="https://github.com/gelsonmarcelo/coleta-frai-documentation/assets/49684358/734bdd92-cc1c-453b-af73-ca15bd4bdaff" /> <img width="200" src="https://github.com/gelsonmarcelo/coleta-frai-documentation/assets/49684358/3f58ab1e-e300-4995-8b9a-10856e8852e4" /> <img width="200" src="https://github.com/gelsonmarcelo/coleta-frai-documentation/assets/49684358/d37d4dd1-1118-4d19-aaf9-c6e1a30ce5f2" />
+
+
 ________________________________________
 ##### Em caso de dúvidas entrar em contato: gelsonschikorski1998@gmail.com
 ##### Bugs: [Clique aqui](https://github.com/gelsonmarcelo/coleta-frai-documentation/issues/new)
