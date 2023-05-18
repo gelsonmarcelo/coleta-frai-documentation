@@ -1,5 +1,9 @@
 # Documentação Coleta Frai :recycle:
 
+<p align="left">
+<img src="https://github.com/steverichey/google-play-badge-svg/blob/master/img/pt-br_get.svg" width="20%">
+</p>
+
 O Coleta Frai tem como objetivo promover a conscientização ambiental e facilitar a coleta seletiva de resíduos no município de Fraiburgo/SC. Nesta documentação, você encontrará informações detalhadas sobre como utilizar todas as funcionalidades do Coleta Frai:
 
 ## Funcionalidades
