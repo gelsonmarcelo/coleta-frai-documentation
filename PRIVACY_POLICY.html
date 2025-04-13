@@ -74,7 +74,11 @@
     <tbody>
       <tr>
         <td><code>android.permission.SCHEDULE_EXACT_ALARM</code></td>
-        <td>Necessária para agendar alarmes exatos (introduzido no Android 12).</td>
+        <td>Requerida para agendar alarmes exatos em dispositivos com Android 12 (API 31) ou superior. Usada para garantir a pontualidade dos lembretes configurados pelo usuário.</td>
+      </tr>
+      <tr>
+        <td><code>android.permission.USE_EXACT_ALARM</code></td>
+        <td>Necessária para permitir que o aplicativo dispare alarmes exatamente no horário programado. Essencial para a funcionalidade principal do app, que é lembrar o usuário sobre a coleta seletiva em dias e horários específicos.</td>
       </tr>
       <tr>
         <td><code>android.permission.INTERNET</code></td>
